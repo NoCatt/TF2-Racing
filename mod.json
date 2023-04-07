@@ -6,12 +6,6 @@
 
    "LoadPriority": 0,
    "ConVars": [],
-   "Scripts": [{
-      "Path": "example.nut",
-      "RunOn": "(CLIENT || SERVER) && MP"
-      "ClientCallback": {
-         "Before":"example_callback"
-      }
-   }],
+   "Scripts": [],
    "Localisation": []
 }
